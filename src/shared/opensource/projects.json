@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Genius AI Platform",
+      "createdAt": "2023-08-06T16:26:54Z",
+      "url": "https://github.com/debadityasingh8972/Genius-ai-saas",
+      "description": "🔥 An all round web, SaaS application where user can sign-up and use provided tools to generate images, videos, Code snippets and chat with AI. Build Using TypeScript, Next 13, tailwind for design. React-toast for Error handling, Open AI API for GPT Turbo AI Injection.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "TypeScript",
+          "iconifyClass": "simple-icons:typescript"
+        },
+        {
+          "name": "React-Next",
+          "iconifyClass": "simple-icons:react"
+        },
+        {
+          "name": "OpenAI API",
+          "iconifyClass": "simple-icons:openai"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "NFT Marketplace",
+      "createdAt": "2023-05-13T20:41:33Z",
+      "url": "https://github.com/debadityasingh8972/nft-marketplace-demo",
+      "description": "📦 Full StackNFT Marketplace on Ethereum blockchain where usercan list, buy, sellNFTs. Solidity Programming Language for writing the Smart Contract. Used react.js & next.js for the front-end development. We connected the back-end to Ethereum blockchain.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "javascript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "solidity",
+          "iconifyClass": "logos-solidity"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Hardhat",
+          "iconifyClass": "logos-hardhat"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "Cyber-Fiction",
+      "createdAt": "2023-06-11T14:50:20Z",
+      "url": "https://github.com/debadityasingh8972/Cyber-fiction",
+      "description": "🌀 This unique and engaging scrolling animation (Front-end) project is created using HTML, CSS, JavaScript and added extra animation feature using canvas. Used Locomotive scroll and GSAP for Scrolling animation.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGcPKSQ",
+      "name": "2048 Game",
+      "createdAt": "2023-03-26T17:56:07Z",
+      "url": "https://github.com/debadityasingh8972/2048-game-animated",
+      "description": "⚙️ 2048 is a JavScript based puzzle game where you have to multiply two same numbers and get 2048 in the board .",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
+      "name": "Weather App",
+      "createdAt": "2023-12-06T06:36:41Z",
+      "url": "https://github.com/debadityasingh8972/weather-forecast",
+      "description": "🚀  This is a single-page weather forecast application designed to provide users with current weather details and a 5-day forecast for any city around the world. It utilizes a public API to fetch real-time weather data and presents it in a user-friendly and intuitive interface.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "css",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+      "name": "Sherry-animation",
+      "createdAt": "2023-09-01T08:31:51Z",
+      "url": "https://github.com/debadityasingh8972/Animated-webPage",
+      "description": "🚀 Smooth Liquid click Animation to transition between different components.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    }
+  ]
+}
